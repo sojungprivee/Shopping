@@ -1,0 +1,6 @@
+# 시스템 라이트/다크 설정을 그대로 따르고, 강조색만 지정한다.
+[theme.light]
+primaryColor = "#2E9E6B"
+
+[theme.dark]
+primaryColor = "#3DBE84"
